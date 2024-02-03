@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realshak7781
 - 👀 I’m interested in coding,fitness,gym and creating meaningful projects
-- 🌱 I’m currently learning engineering in information technology from NIT,Jalandhar,Punjab
+- 🌱 I’m currently learning engineering in Information Technology from NIT,Jalandhar,Punjab
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me : gmail:: akhtersharique75@gmail.com
 
