@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sharquei, an aspiring coder and fitness enthusiast.
+# Hi there! 👋 I'm Sharique, an aspiring coder and fitness enthusiast.
 
 ## About Me
 
