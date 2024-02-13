@@ -37,6 +37,30 @@
 
 ![Sharique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realshak7781&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
 
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realshak7781&layout=compact&theme=radical)
+
+## Contributions
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=realshak7781&theme=radical)
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=realshak7781&theme=radical)
+
+## Wakatime Stats
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=realshak7781&theme=radical)
+
+## Code Time Stats
+
+![Code Time Stats](https://codetime.io/api/total_coded_time?user_id=realshak7781&show_projects=true&theme=radical)
+
+## Most Used IDE
+
+![Most Used IDE](https://github-readme-stats.vercel.app/api/wakatime?username=realshak7781&layout=compact&theme=radical)
+
 ## Let's Connect!
 
 Feel free to explore my repositories and connect with me on my socials. I'm always excited about new opportunities and collaborations! 😊
