@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Sharique, an aspiring coder and fitness enthusiast.
 
+![Coding and Fitness](https://your-gif-link.gif)
+
 ## About Me
 
 - 🌐 Currently studying Information Technology at NIT, Jalandhar, Punjab.
