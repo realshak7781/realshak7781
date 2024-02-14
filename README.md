@@ -61,17 +61,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=realshak7781&theme=radical)
 
-## Wakatime Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=realshak7781&theme=radical)
-
-## Code Time Stats
-
-![Code Time Stats](https://codetime.io/api/total_coded_time?user_id=realshak7781&show_projects=true&theme=radical)
-
-## Most Used IDE
-
-![Most Used IDE](https://github-readme-stats.vercel.app/api/wakatime?username=realshak7781&layout=compact&theme=radical)
 
 ## Let's Connect!
 
