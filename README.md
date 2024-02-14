@@ -11,7 +11,7 @@
 
 &nbsp;
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF69B4&size=25&vCenter=60&lines=🌟+Welcome+to+My+Wonderland;🚀+Exploring+the+Realms+of+Code;🌈+Creating+Magic+with+Technology;🎯+Turning+Dreams+into+Lines+of+Code;🌐+Connecting+Worlds+Through+Pixels;🎨+Crafting+Digital+Masterpieces;🌟+Embark+on+a+Journey+of+Innovation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF69B4&size=25&vCenter=60&lines=💻+Coding+is+my+superpower;🚀+Launching+into+the+Codeverse;🤖+Debugging+is+my+cardio;🌐+World+domination+through+code;🎮+Ctrl,+Alt,+Defeat+Bugs;🤣+Laughing+at+Syntax+Errors;🌈+Adding+Colors+to+the+Console">
 </p>
 
 
