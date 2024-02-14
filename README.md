@@ -10,9 +10,10 @@
 
 
 &nbsp;
-<!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=29E8F7&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=FF69B4&size=25&vCenter=60&lines=🌟+Welcome+to+My+Wonderland;🚀+Exploring+the+Realms+of+Code;🌈+Creating+Magic+with+Technology;🎯+Turning+Dreams+into+Lines+of+Code;🌐+Connecting+Worlds+Through+Pixels;🎨+Crafting+Digital+Masterpieces;🌟+Embark+on+a+Journey+of+Innovation">
+</p>
+
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
