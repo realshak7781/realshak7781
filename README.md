@@ -28,10 +28,10 @@
 - 🤝 Open to collaborations on interesting projects.
 - 📧 Reach me via email: akhtersharique75@gmail.com.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sharique-akhtar-90a939263/)
-- [Instagram](https://www.instagram.com/sharique_8973/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sharique-akhtar-90a939263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trevin-tindall-483883213" height="30" width="40" /></a>
+</p>
 
 ## Skills
 
