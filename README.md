@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realshak7781&label=Profile%20views&color=0e75b6&style=flat" alt="realshak7781" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&multiline=true&width=500&height=255&lines=🚀+Exploiting+the+Matrix...;🎮+Launching+Pwn3d.exe;🌐+Connecting+to+realShak7781's+profile;💻+Executing+Bash+shell...;🔗+Establishing+connection+to+10.10.10.10:4444;💡+Exploitation+successful;🎉+Hooray!+I'm+Pwned!;🤖+WhoAmI: realShak7781" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=FF69B4&multiline=true&width=500&height=255&lines=🚀+Exploiting+the+Matrix...;🎮+Launching+Pwn3d.exe;🌐+Connecting+to+realShak7781's+profile;💻+Executing+Bash+shell...;🔗+Establishing+connection+to+10.10.10.10:4444;💡+Exploitation+successful;🎉+Hooray!+I'm+Pwned!;🤖+WhoAmI: realShak7781" alt="Typing SVG" /></a>
+
 
 
 
