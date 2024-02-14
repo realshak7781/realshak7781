@@ -61,6 +61,21 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=realshak7781&theme=radical)
 
+<!-- ###### QUOTE OF THE DAY ##### -->
+
+<h4 align="left">
+<!-- Quote Of The Day --> Fun Fact Of The Day
+</h4>
+<!--
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
+-->
+
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+  
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+<!-- ###### END OF QUOTE OF THE DAY ##### -->
+
 
 
 ## Let's Connect!
