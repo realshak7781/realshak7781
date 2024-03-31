@@ -36,10 +36,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sharique-akhtar-90a939263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-dhyani-nitj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sharique_8973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar.dhyani" height="30" width="40" /></a>
-<a href="https://leetcode.com/akhtersharique75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskardhyani98" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shariqueakhtar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanskardhyani98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharique-akhtar-90a939263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharique akhtar NITJ" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sharique_8973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharique_akhtar" height="30" width="40" /></a>
+<a href="https://leetcode.com/akhtersharique75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharique_akhtar" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/realshak7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharique_akhtar" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6Nv4vEse" height="30" width="40" /></a>
 </p>
 
