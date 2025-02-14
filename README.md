@@ -15,7 +15,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 🌱 I’m currently exploring **Web 3.0 & Machine learning**
+- 🌱 I’m currently exploring **LLM Ops ,Generative AI and AI Agents**
 
 - 👨‍💻 Know me more <a href="https://www.linkedin.com/in/akhtarsharique/" style="text-decoration: none;">LinkedIn</a>
 
