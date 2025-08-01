@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a junior at **NIT JALANDHAR**
+- 👩‍🎓 Senior at **NIT JALANDHAR**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
